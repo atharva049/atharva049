@@ -1,3 +1,6 @@
+![Header](https://raw.githubusercontent.com/atharva049/atharva049/main/banner.svg)
+
+
 💫 Hi 👋, I'm Atharva Hegdekar
 
 A passionate young developer from India exploring AI tools and full-stack development.
