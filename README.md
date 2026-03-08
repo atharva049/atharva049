@@ -1,29 +1,29 @@
 ![Header](https://raw.githubusercontent.com/atharva049/atharva049/main/banner.svg)
 
 
-💫 Hi 👋, I'm Atharva Hegdekar
+💫 **Hi 👋, I'm Atharva Hegdekar**
 
-A passionate young developer from India exploring AI tools and full-stack development.
+**A passionate young developer from India exploring AI tools and full-stack development.**
 
-Email Me 👉 ✉️ [hegdekaratharva049@gmail.com](mailto:hegdekaratharva049@gmail.com) For Collaboration / Projects or Tech Discussions. 😊
+**Email Me 👉 ✉️ [hegdekaratharva049@gmail.com](mailto:hegdekaratharva049@gmail.com) For Collaboration / Projects or Tech Discussions. 😊**
 
-🔭 I’m currently working on: DreamChat – a social media platform with reels, chat, profiles, and modern social features.
+🔭 **I’m currently working on:** DreamChat – a social media platform with reels, chat, profiles, and modern social features.
 
-🌱 I’m currently learning: Next.js, Firebase, full-stack development, and how real social media apps work.
+🌱 **I’m currently learning:** Next.js, Firebase, full-stack development, and how real social media apps work.
 
-👯 I’m looking to collaborate on: Social media platforms, AI-powered apps, and creative web development projects.
+👯 **I’m looking to collaborate on:** Social media platforms, AI-powered apps, and creative web development projects.
 
-🤔 I’m looking for help with: Improving DreamChat and adding advanced features like real-time chat, filters, and better UI.
+🤔 **I’m looking for help with:** Improving DreamChat and adding advanced features like real-time chat, filters, and better UI.
 
-💬 Ask me about: Web development, AI tools, Firebase setup, debugging errors, and building projects.
+💬 **Ask me about:** Web development, AI tools, Firebase setup, debugging errors, and building projects.
 
-📫 How to reach me: [hegdekaratharva049@gmail.com](mailto:hegdekaratharva049@gmail.com)
+📫 **How to reach me:** [hegdekaratharva049@gmail.com](mailto:hegdekaratharva049@gmail.com)
 
-😄 Pronouns: He / Him
+😄 **Pronouns:** He / Him
 
-⚡ Fun fact: I enjoy building apps, breaking them, fixing errors, and learning new tech every day.
+⚡ **Fun fact:** I enjoy building apps, breaking them, fixing errors, and learning new tech every day.
 
-🔗 I love experimenting with technology and creating innovative digital projects. 🚀
+🔗 **I love experimenting with technology and creating innovative digital projects.** 🚀
 
 <!-- Snake Game Repo View -->
 
