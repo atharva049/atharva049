@@ -31,6 +31,10 @@ Email Me 👉 ✉️ [hegdekaratharva049@gmail.com](mailto:hegdekaratharva049@gm
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/atharva049/atharva049/output/pacman-contribution-graph.svg">
+</div>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hegdekaratharva049@gmail.com) 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/God_Of_Matrix_x)
