@@ -1,217 +1,318 @@
-<!--
-  Atharva Hegdekar — GitHub profile README
-  Repo: <YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>   (repo name must match username)
+# Atharva Hegdekar
 
-  Placeholders: YOUR_GITHUB_USERNAME · YOUR_LINKEDIN · YOUR_X · YOUR_ZOONIVERSE
-  Full list and install steps: SETUP.md
--->
+<p align="center">
+  <img src="./assets/assets_header.svg" width="100%" alt="Animated cosmic profile header" />
+</p>
 
-<div align="center">
-  <img src="assets/header.svg" alt="Atharva Hegdekar — physics, computing, aerospace, AI" width="100%" />
-</div>
+<p align="center">
+  <img src="./assets/assets_typing.svg" width="600" alt="Software, signals, and systems" />
+</p>
 
-<div align="center">
-  <img src="assets/typing.svg" alt="Python, physics, and a growing list of side projects." width="100%" />
-</div>
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:hegdekaratharva049@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.zooniverse.org/users/YOUR_ZOONIVERSE">
+    <img src="https://img.shields.io/badge/Zooniverse-Citizen_Science-4B6F44?style=for-the-badge" alt="Zooniverse" />
+  </a>
+</p>
+
+---
 
 ## Introduction
 
-### Software, signals, and systems — usually all three at once.
+**Software, signals, and systems — usually all three at once.**
 
-I'm Atharva Hegdekar. I work on the parts of technology that refuse to stay in one discipline: a microcontroller that has to be debugged at the electrical level before the code will run, a dataset that only makes sense once you know the physics behind the instrument that recorded it, a security question that turns out to be a design question.
+I'm Atharva Hegdekar. I work on the parts of technology that rarely fit into a single discipline: a microcontroller that needs to be understood at the electrical level before its code makes sense, a dataset that becomes meaningful only when you understand the physics behind its measurements, or a security problem that begins with a question about system design.
 
-My hands-on range is Python, Linux and embedded hardware. My reading range is much wider — machine learning, cryptography, orbital mechanics, distributed systems — and this profile is where the two meet. I would rather ship a small thing that works than describe a large thing that doesn't.
+My hands-on work spans Python, Linux, software development, and embedded hardware. My wider interests include artificial intelligence, cybersecurity, scientific computing, astronomy, and engineering.
 
-**Right now** — building an ESP32 sensor project · learning NumPy and Matplotlib · classifying telescope images on Zooniverse
+I enjoy connecting ideas across disciplines, learning how systems work beneath the surface, and turning that understanding into practical experiments.
 
-## Stack
+**I value working implementations, clear documentation, and evidence over impressive claims.**
 
-Three tiers, deliberately separated: what I actually use, what I'm learning now, and a map of the wider ecosystem I'm reading into. **The third tier is a reference landscape, not a skill claim** — it lists what exists in the fields I follow, not what I have shipped with.
+---
 
-### 01 · Technologies I use
+## Technology Stack
 
-<div>
-  <img src="https://skillicons.dev/icons?i=py,bash,md,git,github,linux,vscode,arduino&theme=dark&perline=8" alt="Python, Bash, Markdown, Git, GitHub, Linux, VS Code, Arduino" height="48" />
-</div>
+My technology stack is organised into three layers: tools I actively use, technologies I'm currently learning, and a broader ecosystem I'm exploring.
 
-<br/>
+The ecosystem section is a technical map of my interests — not a claim of proficiency in every listed technology.
 
-| Tool | How I use it |
-| :-- | :-- |
-| **Python** | Main language: scripts, data handling, small utilities, problem solving. |
-| **Git & GitHub** | Version control for my own projects; this profile is maintained by hand. |
-| **Linux** | Command line, file system and package basics. |
-| **VS Code** | Primary editor. |
-| **Arduino IDE / ESP32** | Flashing and debugging small sensor builds. |
-| **Bash** | Basic shell scripting for repetitive tasks. |
-| **Markdown** | Documentation and this README. |
+### 01 · Technologies I Use
 
-### 02 · Currently learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github,linux,vscode,arduino,md&perline=8" alt="Python, Bash, Git, GitHub, Linux, VS Code, Arduino, Markdown" />
+</p>
 
-| Area | What I'm doing |
-| :-- | :-- |
-| **NumPy & Matplotlib** | Loading, plotting and sanity-checking data instead of trusting a first glance. |
-| **ESP32 & sensors** | Sensor reads, control logic, and debugging hardware that misbehaves. |
-| **Git workflows** | Branches, pull requests, and keeping a clean commit history. |
-| **Scientific method** | Reading papers properly: method, uncertainty, and what the data can't support. |
+| Technology | How I use it |
+|---|---|
+| Python | Scripts, data handling, small utilities, and problem-solving |
+| Git & GitHub | Version control, project management, and documentation |
+| Linux | Command-line workflows, filesystem operations, and package basics |
+| VS Code | Primary development environment |
+| Arduino IDE | Programming and debugging microcontroller projects |
+| ESP32 | Embedded experiments and sensor-based projects |
+| Bash | Basic shell scripting and repetitive task automation |
+| Markdown | Technical documentation and project READMEs |
 
-### 03 · Exploring the ecosystem
+### 02 · Currently Learning
 
-Fourteen categories, roughly 150 technologies — the landscape I read about across software, AI, security, hardware and engineering. Collapsed by default so the page stays readable.
+| Area | Focus |
+|---|---|
+| NumPy & Matplotlib | Loading, analysing, and visualising scientific data |
+| ESP32 & Sensors | Sensor readings, control logic, and hardware debugging |
+| Git Workflows | Branches, pull requests, and maintainable commit history |
+| Scientific Computing | Numerical methods, data interpretation, and uncertainty |
+| Cybersecurity Fundamentals | Networking, Linux internals, and security concepts |
+| Machine Learning | Classification, evaluation, and understanding model limitations |
+
+### 03 · Exploring the Technology Ecosystem
+
+A broader collection of technologies across software engineering, AI, cybersecurity, infrastructure, and scientific computing.
 
 <details>
-<summary><b>Programming Languages</b></summary>
+<summary><strong>Programming Languages</strong></summary>
 
-`Python` `C` `C++` `Java` `JavaScript` `TypeScript` `Go` `Rust` `PHP` `Ruby` `Kotlin` `Swift` `C#` `SQL` `Bash` `PowerShell` `Lua` `Haskell` `Elixir` `Zig`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,go,rust,php,ruby,kotlin,swift,cs,bash,powershell&perline=8" alt="Programming language icons" />
+</p>
+
+Python · C · C++ · Java · JavaScript · TypeScript · Go · Rust · PHP · Ruby · Kotlin · Swift · C# · SQL · Bash · PowerShell
 
 </details>
 
 <details>
-<summary><b>Frontend Development</b></summary>
+<summary><strong>Frontend Development</strong></summary>
 
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Vue` `Nuxt` `Angular` `Svelte` `Tailwind CSS` `Bootstrap` `Sass` `Vite` `Webpack` `Astro` `Three.js` `Framer Motion`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,vite,webpack&perline=8" alt="Frontend technology icons" />
+</p>
 
-</details>
-
-<details>
-<summary><b>Backend Development</b></summary>
-
-`Node.js` `Express` `NestJS` `Django` `Flask` `FastAPI` `Spring Boot` `ASP.NET Core` `Laravel` `REST APIs` `GraphQL` `WebSockets` `gRPC` `RabbitMQ` `Redis Pub/Sub` `Celery` `Nginx`
+HTML5 · CSS3 · React · Next.js · Vue · Angular · Svelte · Tailwind CSS · Bootstrap · Sass · Vite · Webpack
 
 </details>
 
 <details>
-<summary><b>Databases and Storage</b></summary>
+<summary><strong>Backend Development & APIs</strong></summary>
 
-`PostgreSQL` `MySQL` `SQLite` `MongoDB` `Redis` `Firebase` `Supabase` `Elasticsearch` `Cassandra` `DynamoDB` `Neo4j` `InfluxDB` `MinIO` `Parquet` `Prisma` `SQLAlchemy`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,dotnet&perline=8" alt="Backend technology icons" />
+</p>
 
-</details>
-
-<details>
-<summary><b>Artificial Intelligence and Machine Learning</b></summary>
-
-`NumPy` `Pandas` `Matplotlib` `SciPy` `scikit-learn` `TensorFlow` `PyTorch` `Keras` `Hugging Face` `OpenCV` `Jupyter` `LangChain` `LlamaIndex` `FAISS` `Pinecone` `ChromaDB` `ONNX` `XGBoost` `Weights & Biases` `MLflow`
+Node.js · Express · NestJS · Django · Flask · FastAPI · Spring Boot · ASP.NET Core · Laravel · REST APIs · GraphQL · WebSockets
 
 </details>
 
 <details>
-<summary><b>Data Science and Scientific Computing</b></summary>
+<summary><strong>Databases & Storage</strong></summary>
 
-`Jupyter Notebook` `MATLAB` `R` `SymPy` `SciPy` `Plotly` `Seaborn` `Polars` `Dask` `Apache Spark` `Apache Arrow` `statsmodels` `Astropy` `SunPy` `HEASoft` `FITS tooling` `simulation frameworks`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase,elasticsearch&perline=8" alt="Database technology icons" />
+</p>
 
-</details>
-
-<details>
-<summary><b>Cybersecurity</b></summary>
-
-`Linux hardening` `Kali Linux` `Wireshark` `Nmap` `Burp Suite` `Metasploit` `OWASP Top 10` `Ghidra` `John the Ripper` `Hashcat` `OpenSSL` `GPG` `Firewalls` `IDS/IPS` `SIEM` `Threat modelling` `Reverse engineering` `CTF practice`
+PostgreSQL · MySQL · SQLite · MongoDB · Redis · Firebase · Supabase · Elasticsearch · Cassandra · DynamoDB
 
 </details>
 
 <details>
-<summary><b>DevOps and Cloud</b></summary>
+<summary><strong>Artificial Intelligence & Machine Learning</strong></summary>
 
-`Docker` `Kubernetes` `GitHub Actions` `Jenkins` `Terraform` `Ansible` `AWS` `Microsoft Azure` `Google Cloud` `Cloudflare` `Vercel` `Netlify` `Prometheus` `Grafana` `Nginx` `systemd` `CI/CD pipelines`
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,opencv,sklearn&perline=8" alt="AI and machine learning icons" />
+</p>
 
-</details>
-
-<details>
-<summary><b>Version Control and Collaboration</b></summary>
-
-`Git` `GitHub` `GitLab` `Bitbucket` `GitHub Actions` `Markdown` `Conventional Commits` `Code review` `Issue tracking` `Open-source workflows` `Semantic versioning`
+NumPy · Pandas · Matplotlib · SciPy · Scikit-learn · TensorFlow · PyTorch · Keras · Hugging Face · OpenCV · Jupyter · LLM tooling · Vector databases
 
 </details>
 
 <details>
-<summary><b>Operating Systems and Development Environments</b></summary>
+<summary><strong>Data Science & Scientific Computing</strong></summary>
 
-`Linux` `Ubuntu` `Debian` `Arch Linux` `Fedora` `Windows` `macOS` `WSL` `Termux` `VS Code` `Visual Studio` `IntelliJ IDEA` `PyCharm` `Vim` `Neovim` `tmux` `Docker Desktop`
-
-</details>
-
-<details>
-<summary><b>Embedded Systems and Electronics</b></summary>
-
-`Arduino` `ESP32` `Raspberry Pi` `PlatformIO` `MicroPython` `Embedded C/C++` `I2C` `SPI` `UART` `Sensors` `Actuators` `MQTT` `LoRa` `PCB design` `Logic analysers` `Oscilloscopes` `Robotics kinematics`
+NumPy · Pandas · Matplotlib · SciPy · SymPy · MATLAB · R · Jupyter Notebook · Numerical Computing · Data Visualisation · Scientific Simulation
 
 </details>
 
 <details>
-<summary><b>Design and Creative Development</b></summary>
+<summary><strong>Cybersecurity</strong></summary>
 
-`Figma` `Canva` `Blender` `Inkscape` `SVG` `Adobe Photoshop` `Adobe Illustrator` `UI/UX design` `3D modelling` `Data visualisation` `Motion design`
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,docker&perline=8" alt="Security-related technology icons" />
+</p>
 
-</details>
-
-<details>
-<summary><b>Aerospace, Robotics and Engineering Tools</b></summary>
-
-`FreeCAD` `KiCad` `Fusion 360` `MATLAB/Simulink` `OpenRocket` `GMAT` `STK` `ROS / ROS2` `Gazebo` `CFD fundamentals` `Orbital mechanics` `Structural analysis` `Mission design`
+Linux · Kali Linux · Wireshark · Nmap · Burp Suite · OWASP · Metasploit · Cryptography Libraries · Threat Modelling · Network Security · Defensive Security
 
 </details>
 
 <details>
-<summary><b>Blockchain and Emerging Technologies</b></summary>
+<summary><strong>DevOps, Cloud & Infrastructure</strong></summary>
 
-`Solidity` `Web3.js` `Ethereum` `Smart contracts` `IPFS` `Zero-knowledge proofs` `Distributed systems` `Qiskit` `Quantum computing` `Edge computing` `Neuromorphic computing`
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,terraform,ansible,aws,azure,gcp,cloudflare,vercel,netlify&perline=8" alt="DevOps and cloud technology icons" />
+</p>
+
+Docker · Kubernetes · GitHub Actions · Jenkins · Terraform · Ansible · AWS · Azure · Google Cloud · Cloudflare · Vercel · Netlify
 
 </details>
+
+<details>
+<summary><strong>Version Control & Collaboration</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,markdown&perline=8" alt="Version control and collaboration icons" />
+</p>
+
+Git · GitHub · GitLab · Bitbucket · Markdown · Pull Requests · Issue Tracking · Open-Source Workflows
+
+</details>
+
+<details>
+<summary><strong>Operating Systems & Development Environments</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,windows,apple,raspberrypi,vscode,visualstudio,neovim,vim,idea,pycharm&perline=8" alt="Operating systems and development tools" />
+</p>
+
+Linux · Ubuntu · Debian · Arch Linux · Windows · macOS · WSL · Termux · VS Code · Visual Studio · IntelliJ IDEA · PyCharm · Vim · Neovim
+
+</details>
+
+<details>
+<summary><strong>Embedded Systems, Electronics & Robotics</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c,python&perline=8" alt="Embedded systems technology icons" />
+</p>
+
+Arduino · ESP32 · Raspberry Pi · PlatformIO · MicroPython · Embedded C/C++ · Sensors · IoT · Robotics · Electronics Prototyping
+
+</details>
+
+<details>
+<summary><strong>Design & Creative Development</strong></summary>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,blender,svg,canva&perline=8" alt="Design and creative tools" />
+</p>
+
+Figma · Blender · SVG · UI/UX Design · 3D Modelling · Technical Visualisation · Adobe Creative Tools
+
+</details>
+
+<details>
+<summary><strong>Aerospace, Robotics & Engineering Tools</strong></summary>
+
+CAD · FreeCAD · KiCad · MATLAB/Simulink · Orbital Mechanics Software · Engineering Simulation · Scientific Visualisation · Control Systems
+
+</details>
+
+<details>
+<summary><strong>Blockchain & Emerging Technologies</strong></summary>
+
+Solidity · Web3 · Smart Contracts · Distributed Systems · Quantum Computing Tools · Emerging AI Technologies
+
+</details>
+
+---
 
 ## Projects
 
+A selection of technical work and experiments.
+
 | Project | Description | Stack | Status |
-| :-- | :-- | :-- | :-- |
-| **ESP32 sensor and control builds** | Small hardware projects: sensor reads, control logic, and debugging on a breadboard. | ESP32 · Arduino IDE · sensors | Ongoing |
-| **Python data scripts** | Utilities that load, plot and sanity-check datasets instead of reading numbers off a screen. | Python · NumPy · Matplotlib | Ongoing |
-| **Profile assets** | The SVG header, typewriter and divider used on this page, written by hand. | SVG · SMIL | Complete |
+|---|---|---|---|
+| ESP32 Sensor & Control Builds | Embedded experiments involving sensor readings, control logic, and hardware debugging | ESP32 · Arduino IDE · Sensors | Ongoing |
+| Python Data Scripts | Small utilities for loading, plotting, and inspecting datasets | Python · NumPy · Matplotlib | Ongoing |
+| GitHub Profile Assets | Custom SVG header, typing animation, and visual elements for this profile | SVG · Markdown | Completed |
 
-No repositories are published for these yet; links will appear here as they go up.
+<sub>Repository links will be added as the projects are published and documented.</sub>
 
-## Research and Exploration
+---
 
-| Topic | Type | Notes |
-| :-- | :-- | :-- |
-| **Space elevator feasibility** | Concept study — complete, unpublished | A self-directed write-up covering material strength, taper ratio, tension and counterweight requirements. Not peer reviewed. |
-| **Asteroid prospecting** | Idea — early reading | Target selection, remote sensing and resource assessment, using OSIRIS-REx, Hayabusa2 and Psyche as references. Nothing designed or written up yet. |
-| **Machine learning for classification** | Exploring | Reading on evaluation, class imbalance and model failure modes; the Zooniverse workflow is the practical case study. |
-| **Security fundamentals** | Exploring | Networking, Linux internals and threat modelling — the reasoning behind attacks more than the tools. |
-| **Orbital mechanics and mission design** | Ongoing reading | Launch windows, delta-v budgets and the constraints that shape real missions. |
+## Research & Technical Exploration
 
-## Open Source and Citizen Science
+| Topic | Status | Focus |
+|---|---|---|
+| Space Elevator Feasibility | Completed · Unpublished | Material strength, taper ratio, tension, and counterweight requirements |
+| Asteroid Prospecting | Early Exploration | Target selection, remote sensing, and resource assessment |
+| Machine Learning for Classification | Exploring | Evaluation, class imbalance, and model failure modes |
+| Security Fundamentals | Exploring | Networking, Linux internals, and threat modelling |
+| Orbital Mechanics & Mission Design | Ongoing Reading | Launch windows, delta-v budgets, and mission constraints |
 
-**Zooniverse — Active Asteroids**, a NASA Partner citizen-science project. Volunteers review telescope images of known small bodies and record whether the object shows activity, such as a tail or coma. The images come mainly from the Dark Energy Camera on the 4-metre Blanco telescope in Chile.
+These topics represent independent study and exploration. They are not presented as peer-reviewed research or institutional projects.
 
-I've completed the project tutorial and started classifying. Most of the work is learning to separate real activity from background galaxies, cosmic rays and image artifacts, and checking my calls against the project's Talk discussions.
+---
 
-[Active Asteroids on Zooniverse →](https://www.zooniverse.org/projects/orionnau/active-asteroids)
+## Open Source & Citizen Science
+
+### Zooniverse — Active Asteroids
+
+I participate in **Active Asteroids**, a citizen-science project on Zooniverse that invites volunteers to examine astronomical images and identify signs of activity in small Solar System bodies.
+
+The work involves distinguishing possible activity from background galaxies, cosmic rays, and image artifacts, while using project discussions to understand uncertain classifications.
+
+- Completed the project tutorial
+- Started classifying images
+- Learning to evaluate observations carefully and consistently
+
+<p>
+  <a href="https://www.zooniverse.org/projects">
+    <img src="https://img.shields.io/badge/Explore-Zooniverse_Projects-4B6F44?style=for-the-badge" alt="Explore Zooniverse projects" />
+  </a>
+</p>
+
+---
 
 ## GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&bg_color=060a14&title_color=7dd3fc&text_color=c9dbe8&icon_color=38bdf8&border_color=16324c" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&bg_color=060a14&title_color=7dd3fc&text_color=c9dbe8&border_color=16324c" alt="Most used languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most used programming languages" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=060a14&border=16324c&stroke=1e4a6b&ring=38bdf8&fire=7dd3fc&currStreakNum=e0f2fe&currStreakLabel=7dd3fc&sideNums=c9dbe8&sideLabels=c9dbe8&dates=5f93b8" alt="Contribution streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=060a14&color=c9dbe8&line=38bdf8&point=7dd3fc&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
 
-Figures come from the GitHub API, so they stay small while the account is new.
+<sub>Profile metrics are generated from GitHub activity and may change as the account and repositories grow.</sub>
+
+---
 
 ## Contact
 
-| | |
-| :-- | :-- |
-| **Email** | [hegdekaratharva049@gmail.com](mailto:hegdekaratharva049@gmail.com) |
-| **GitHub** | [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
-| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN) |
-| **X** | [x.com/YOUR_X](https://x.com/YOUR_X) |
-| **Zooniverse** | [zooniverse.org/users/YOUR_ZOONIVERSE](https://www.zooniverse.org/users/YOUR_ZOONIVERSE) |
+<p>
+  <a href="mailto:hegdekaratharva049@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/YOUR_X_USERNAME">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.zooniverse.org/users/YOUR_ZOONIVERSE">
+    <img src="https://img.shields.io/badge/Zooniverse-Profile-4B6F44?style=flat-square" alt="Zooniverse" />
+  </a>
+</p>
 
-Open to questions, corrections and collaboration on small projects.
+Open to thoughtful discussions, technical feedback, and collaboration on meaningful projects.
 
-<sub>Last updated: November 2026</sub>
+---
+
+<p align="center">
+  <sub>Built with curiosity, documented with care.</sub>
+</p>
+
+<p align="center">
+  <sub>Last updated: November 2026</sub>
+</p>
