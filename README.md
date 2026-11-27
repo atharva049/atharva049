@@ -1,11 +1,11 @@
 # Atharva Hegdekar
 
 <p align="center">
-  <img src="./assets/assets_header.svg" width="100%" alt="Animated cosmic profile header" />
+  <img src="./assets_header.svg" width="100%" alt="Animated cosmic profile header" />
 </p>
 
 <p align="center">
-  <img src="./assets/assets_typing.svg" width="600" alt="Software, signals, and systems" />
+  <img src="./assets_typing.svg" width="600" alt="Software, signals, and systems" />
 </p>
 
 <p align="center">
