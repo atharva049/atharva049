@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/atharva049">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="mailto:hegdekaratharva049@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.zooniverse.org/users/YOUR_ZOONIVERSE">
+  <a href="https://www.zooniverse.org/users/atharva_hegdekar">
     <img src="https://img.shields.io/badge/Zooniverse-Citizen_Science-4B6F44?style=for-the-badge" alt="Zooniverse" />
   </a>
 </p>
@@ -269,16 +269,16 @@ The work involves distinguishing possible activity from background galaxies, cos
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharva049&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva049&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=atharva049&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva049&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
 <sub>Profile metrics are generated from GitHub activity and may change as the account and repositories grow.</sub>
@@ -291,16 +291,16 @@ The work involves distinguishing possible activity from background galaxies, cos
   <a href="mailto:hegdekaratharva049@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/atharva049">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/YOUR_X_USERNAME">
+  <a href="https://x.com/@AHegdekar">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.zooniverse.org/users/YOUR_ZOONIVERSE">
+  <a href="https://www.zooniverse.org/users/atharva_hegdekar">
     <img src="https://img.shields.io/badge/Zooniverse-Profile-4B6F44?style=flat-square" alt="Zooniverse" />
   </a>
 </p>
